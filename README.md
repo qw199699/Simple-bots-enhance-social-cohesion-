@@ -1,6 +1,8 @@
 # The supplementary information for evolution of cooperation for bots within mobile population
 
-### Some evolutionary videos are provided here to visualize the contribution of mobile bots to social cohesion.
+### Some evolutionary snapshot are provided here to visualize the contribution of mobile bots to social cohesion.
+
+In these files, blue, yellow, green and white markers indicate the cooperators, defectors, bots and void site, respectively.
 
 "SI_v1.gif" shows that the evolution dynamic of the scenario without bots, in which ordinary quickly falls into a frozen state, that is, no longer updating strategies and migrating.
 
