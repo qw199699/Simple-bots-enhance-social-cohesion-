@@ -1,6 +1,6 @@
 # The supplementary information for evolution of cooperation for bots within mobile population
 
-### Some evolutionary snapshot are provided here to visualize the contribution of mobile bots to social cohesion.
+### Some evolutionary dynamic are provided here to visualize the contribution of mobile bots to social cohesion.
 
 In these files, blue, yellow, green and white markers indicate the cooperators, defectors, bots and void site, respectively.
 
