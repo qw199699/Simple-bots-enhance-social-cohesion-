@@ -8,6 +8,6 @@ Some evolutionary videos are provided here to visualize the contribution of mobi
 
 "SI_v3.gif" shows that evolution dynamic of the scenario with minor random movement bot (p=1), the bots can spread cooperation faster.
 
-"SI_v4.gif" shows that the result without bots when considering the slight (q=0.0001) behavioral noise of ordinary individuals.
+"SI_v4.gif" shows that the result without bots when considering the slight behavioral noise (q=0.0001) of ordinary individuals.
 
-"SI_v5.gif" shows that the result with minor migration noise bot (p=0.01) when considering the slight (q=0.0001) behavioral noise of ordinary individuals.
+"SI_v5.gif" shows that the result with minor migration noise bot (p=0.01) when considering the slight behavioral noise (q=0.0001) of ordinary individuals.
