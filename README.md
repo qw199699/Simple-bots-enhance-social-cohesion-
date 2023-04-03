@@ -8,7 +8,7 @@ In these files, blue, yellow, green and white markers indicate the cooperators, 
 
 "SI_v2.gif" shows that evolution dynamic of the scenario with minor migration noise bots (p=0.01), the introduction of mobile bots helps feed cooperation in migration and may drive coopertors to gather even after the defectors become extinct.
 
-"SI_v3.gif" shows that evolution dynamic of the scenario with minor random movement bots (p=1), the bots can spread cooperation faster.
+"SI_v3.gif" shows that evolution dynamic of the scenario with random movement bots (p=1), the bots can spread cooperation faster.
 
 "SI_v4.gif" shows that the result without bots when considering the slight behavioral noise (q=0.0001) of ordinary individuals. Behavioral noise means that ordinary individuals not only randomly reset their strategt with probability q, but also randomly migrate with q probability.
 
