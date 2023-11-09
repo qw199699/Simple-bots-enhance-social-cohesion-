@@ -1,8 +1,8 @@
-# The supplementary information for evolution of cooperation for bots within mobile population
+# The supplementary information for “Altruistic bots create new pathways to cooperation in mobile populations”
 
-### Some evolutionary dynamic are provided here to visualize the contribution of mobile bots to social cohesion.
+### Some evolutionary dynamic are provided here to visualize the contribution of mobile bots to cooperation within a mobile population.
 
-The ordinary individual migrates according to the "success-driven" rule, while the bots migrate randomly with probability q (i.e., migration noise ) and with probability 1-q according to the "success-driven" rule. In these files, blue, yellow, green, and white markers indicate the cooperators, defectors, bots, and void sites, respectively. 
+The ordinary individual migrates according to the "success-driven" rule, while the bots migrate randomly with probability \epsilon (i.e., migration noise ) and with probability 1-\epsilon according to the "success-driven" rule. In these files, blue, yellow, green, and white markers indicate the cooperators, defectors, bots, and void sites, respectively. 
 
 "SI_v1.gif" shows the evolution dynamic of the scenario without bots, in which the ordinary quickly falls into a frozen state, that is, no longer updating strategies and migrating.
 
